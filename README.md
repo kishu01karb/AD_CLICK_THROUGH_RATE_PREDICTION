@@ -1,6 +1,7 @@
 # Ad Click Prediction Model 📊
 
 A machine learning project that predicts whether a user will click on an advertisement based on their demographic information and browsing behavior.
+Project live at https://adclickthroughrateprediction-zfnxzzgjrevvni6kucaakv.streamlit.app/
 
 ## 📋 Table of Contents
 - [Overview](#overview)
